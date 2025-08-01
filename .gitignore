@@ -1,0 +1,19 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+
+# SQLite DB + instance folder
+instance/divvy.db
+instance/
+
+# Uploads (user data)
+uploads/
+
+# IDE/editor files
+.vscode/
+*.swp
