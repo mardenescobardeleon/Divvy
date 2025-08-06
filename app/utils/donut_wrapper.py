@@ -1,6 +1,5 @@
 # app/utils/donut_wrapper.py
 from transformers import VisionEncoderDecoderModel, DonutProcessor
-from app.utils.image_helpers import preprocess_receipt
 from PIL import Image
 import torch
 import json
